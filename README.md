@@ -2,28 +2,28 @@
 
 1.1 Установка openssh-server
 
-  ![alt text](image.png)
+<img src="image.png" alt="alt text" width="800" >
 
 1.2 Запуск и проверка
 
- ![alt text](image-1.png)
- 
+ <img src="image-1.png" alt="alt text" width="800" >
+
  
 2 Подключение с локальной машины на виртуальную
 
-![alt text](image-2.png)
+<img src="image-2.png" alt="alt text" width="800" >
 
 3.1 Копирование файлов – локальная машина
  
-![alt text](image-3.png)
+<img src="image-3.png" alt="alt text" width="800" >
 
 3.2 Копирование файлов – виртуальная машина
  
-![alt text](image-4.png)
+<img src="image-4.png" alt="alt text" width="800" >
 
  
 4. Добавление ключей на виртуальную машину (уже были локально), проверка
 
- ![alt text](image-5.png)
+<img src="image-5.png" alt="alt text" width="800" >
 
 
